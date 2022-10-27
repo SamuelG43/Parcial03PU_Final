@@ -35,17 +35,9 @@ namespace PruebaUnitaria
             string rutaEsperada = "Belen";
 
             Assert.AreNotEqual(rutaEsperada, nombreRutaMenorPrueba);
-
-
-
-
         }
 
-    }
-
-    [TestClass]
-    public class UnitTest2
-    {
+        [TestMethod]
         public void VerificaTotalizaPasajerosRuta()
         {
             //Arrange
@@ -71,15 +63,17 @@ namespace PruebaUnitaria
 
             //Act
 
-            Program.TotalizaPasajerosRuta(PruebaArregloViajes,
-                rutasPrueba,
-                out TotalPasajerosPrueba);
+            TotalPasajerosPrueba = Program.TotalizaPasajerosRuta(PruebaArregloViajes,
+                rutasPrueba);
+
+            int totalPasajerosObtenidos = 0;
+            foreach (int unTotal in TotalPasajerosPrueba)
+                totalPasajerosObtenidos += unTotal;
 
             //Asset
             int TotalPasajerosEsperadosPrueba = 103;
 
-            Assert.AreEqual(TotalPasajerosEsperadosPrueba, TotalPasajerosPrueba);
+            Assert.AreNotEqual(TotalPasajerosEsperadosPrueba, totalPasajerosObtenidos);
         }
-       
     }
 }

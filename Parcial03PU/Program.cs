@@ -116,7 +116,7 @@ namespace Examen03PU
         /// <param name="arregloViajes">El arreglo de viajes</param>
         /// <param name="arregloRutas">Las rutas</param>
         /// <returns>Totales de pasajeros por ruta</returns>
-        public static int[] TotalizaPasajerosRuta(Viaje[] arregloViajes, string[] arregloRutas, out int[] totalPasajerosPrueba)
+        public static int[] TotalizaPasajerosRuta(Viaje[] arregloViajes, string[] arregloRutas)
         {
             int[] totalPasajeros = new int[arregloRutas.Length];
 
@@ -133,7 +133,6 @@ namespace Examen03PU
                         totalPasajeros[k] += arregloViajes[j].CantidadPasajeros;
                 }
             }
-
 
             return totalPasajeros;
         }
