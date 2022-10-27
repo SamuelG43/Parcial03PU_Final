@@ -1,3 +1,8 @@
 C:\Users\User\source\repos\Parcial03PU\Parcial03PU\obj\Debug\Examen03PU.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\Parcial03PU\Parcial03PU\obj\Debug\Examen03PU.csproj.SuggestedBindingRedirects.cache
 C:\Users\User\source\repos\Parcial03PU\Parcial03PU\obj\Debug\Examen03PU.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Parcial03PU\Parcial03PU\bin\Debug\Parcial03PU.exe.config
+C:\Users\User\source\repos\Parcial03PU\Parcial03PU\bin\Debug\Parcial03PU.exe
+C:\Users\User\source\repos\Parcial03PU\Parcial03PU\bin\Debug\Parcial03PU.pdb
+C:\Users\User\source\repos\Parcial03PU\Parcial03PU\obj\Debug\Parcial03PU.exe
+C:\Users\User\source\repos\Parcial03PU\Parcial03PU\obj\Debug\Parcial03PU.pdb
