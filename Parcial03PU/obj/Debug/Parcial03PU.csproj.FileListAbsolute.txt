@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Parcial03PU\Parcial03PU\obj\Debug\Parcial03PU.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Parcial03PU\Parcial03PU\obj\Debug\Parcial03PU.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Parcial03PU\Parcial03PU\obj\Debug\Parcial03PU.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Parcial03PU\PruebaUnitaria\obj\Debug\PruebaUnitaria.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Parcial03PU\PruebaUnitaria\obj\Debug\PruebaUnitaria.csproj.CoreCompileInputs.cache

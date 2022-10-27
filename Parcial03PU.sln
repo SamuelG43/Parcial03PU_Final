@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen03PU", "Parcial03PU\Examen03PU.csproj", "{19732185-1A4C-4C91-BCC1-C8E6F839B96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaUnitaria", "PruebaUnitaria\PruebaUnitaria.csproj", "{DDF7399A-682C-4CE3-98D4-CA1F4CA4BE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19732185-1A4C-4C91-BCC1-C8E6F839B96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19732185-1A4C-4C91-BCC1-C8E6F839B96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19732185-1A4C-4C91-BCC1-C8E6F839B96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19732185-1A4C-4C91-BCC1-C8E6F839B96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF7399A-682C-4CE3-98D4-CA1F4CA4BE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF7399A-682C-4CE3-98D4-CA1F4CA4BE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF7399A-682C-4CE3-98D4-CA1F4CA4BE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF7399A-682C-4CE3-98D4-CA1F4CA4BE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B427B1-4D73-4D0A-A737-EBBCBAE2257A}
+	EndGlobalSection
+EndGlobal
