@@ -80,5 +80,6 @@ namespace PruebaUnitaria
 
             Assert.AreEqual(TotalPasajerosEsperadosPrueba, TotalPasajerosPrueba);
         }
+        int viajessss;
     }
 }
