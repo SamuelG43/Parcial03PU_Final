@@ -71,7 +71,7 @@ namespace PruebaUnitaria
                 totalPasajerosObtenidos += unTotal;
 
             //Asset
-            int TotalPasajerosEsperadosPrueba = 119;
+            int TotalPasajerosEsperadosPrueba = 103;
 
             Assert.AreEqual(TotalPasajerosEsperadosPrueba, totalPasajerosObtenidos);
         }
